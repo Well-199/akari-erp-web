@@ -1,0 +1,42 @@
+.login-body{
+    width: 750px;
+    height: auto;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    padding-left: 150px;
+    padding-right: 150px;
+    margin-top: 11%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    background-color: #34495e;
+    
+}
+
+.text-button{
+	font-weight: 500;
+	color: #34495e;
+	background: #ecf0f1;
+}
+
+.myHeader{
+	background-color: #34495e;
+}
+
+.buttonSearch{
+	width: 150px;
+	color: #FFFFFF;
+	border-radius: 0px;
+	background-color: #34495e; 
+}
+
+.buttonSearch:hover{
+	color: #FFFFFF;
+}
+
+input[type="date"]{
+	width: 150px;
+	font-weight: 500;
+	cursor: pointer;
+	border-color: #34495e;
+}
